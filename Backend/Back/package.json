@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "random-words": "^2.0.0"
+  },
+  "name": "back",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
